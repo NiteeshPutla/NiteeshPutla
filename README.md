@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NiteeshPutla
-- 👀 I’m interested in Decentralized Blockchains.
+- 👀 I’m interested in Blockchain development.
 - 🌱 I’m currently learning Ethereum Blockchain
 - 💞️ I’m looking to collaborate on building Blockchain,research on blockchains.
 - 📫 How to reach me niteeshjoyal@gmail.com
