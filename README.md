@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NiteeshPutla
-- 👀 I’m interested in Blockchain development.
-- 🌱 I’m currently learning Ethereum Blockchain
-- 💞️ I’m looking to collaborate on building Blockchain,research on blockchains.
+- 👀 I’m a Blockchain Engineer specializing in Ethereum and Corda.
+- 🌱 I’m currently working on Enterprise Corda.
+- 💞️ Present languages Iam working with are Rust,Java, Kotlin.
 - 📫 How to reach me niteeshjoyal@gmail.com
 
 <!---
