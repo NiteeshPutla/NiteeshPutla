@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NiteeshPutla
-- 👀 I’m a Blockchain Engineer specializing in Ethereum and Corda.
-- 🌱 I’m currently working on Enterprise Corda.
-- 💞️ Present languages Iam working with are Rust,Java, Kotlin.
+- 👀 I’m a Software Engineer specializing in AI and Blockchain.
+- 🌱 I’m currently working on building AI Agents and ml models.
+- 💞️ Current languages are Python and Javascript.
 - 📫 How to reach me niteeshjoyal@gmail.com
 
 <!---
